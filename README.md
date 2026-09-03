@@ -1,2 +1,24 @@
 # MusicPlayerAriana
-Official Music Player Ariana project for Rubika — Created and developed by [Mahmoud Mombeini]
+
+## موزیک پلیر آریانا
+
+پروژه موزیک پلیر آریانا برای پیام‌رسان روبیکا.
+
+### سازنده و توسعه‌دهنده
+
+**محمود ممبینی**
+
+**Ariana Developer**
+
+### اطلاعات رسمی پروژه
+
+- نام پروژه: MusicPlayerAriana
+- کانال روبیکا: @ArianaTunes
+- توسعه‌دهنده: @ArianaDeveloper
+- سازنده: ᗩᖇIᗩᑎᗩᶜʳᵉᵃᵗᵒʳ | ιll🄶lί៚™
+
+### درباره پروژه
+
+MusicPlayerAriana یک پروژه ربات موسیقی و پخش موزیک برای پیام‌ رسان روبیکا است که توسط محمود ممبینی ساخته و توسعه داده شده است
+
+© 2026 محمود ممبینی — Ariana Developer
